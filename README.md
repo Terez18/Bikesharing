@@ -22,13 +22,6 @@ Link to tableau shows all worksheets, dashboards and the story created for this 
 
 ---
 
-Link to csv files:
-
-![201908-citibike-tripdata.csv](201908-citibike-tripdata.csv)
-
-![citibike_tripdata.csv](citibike_tripdata.csv)
-
----
 
 ## Results
 
