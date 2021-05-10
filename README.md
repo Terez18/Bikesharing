@@ -38,20 +38,20 @@ In the trip duration by gender the trips are divided by gender into male, female
 
 ### Trips by Weekday per Hour
 
-![Trip_by_Weekday_per_Hour.PNG](Trip_by_Weekday_per_Hour.PNG)
+![Trips_by_Weekday_per_Hour.PNG](Trips_by_Weekday_per_Hour.PNG)
 
 This chart shows the number of bikes used every hour, every day of the week. It is easy to see in this chart the high peak times, when more bikes are being used. In general, the high peak times are during weekdays during rush hour maybe when people are going to and from work. Roughly from 7am to 9am in the mornings and then from 4pm to 7pm in the evenings. Whereas on the weekend days the number of bikes being used is highest roughly from 10am to 6pm which is throughout the day. Wednesdays seem to have less rides especially at the end of the day compared to the other days at rush hour time. 
 
 ### Trips by Gender (Weekday per Hour)
 
-![Trip_by_Gender_(Weekday_per_Hour).PNG](Trip_by_Gender_(Weekday_per_Hour).PNG)
+![Trips_by_Gender_(Weekday_per_Hour).PNG](Trips_by_Gender_(Weekday_per_Hour).PNG)
 
 When the trips are split by gender, the trends seem similar for male and female, however, the unknown gender do not follow the exact same trend. It seems as though the unknown gender have many trips throughout the day on weekends but on weekdays there is no significant rush hour in the mornings. The trips seem a little more evenly spread with some more trips in the end of the day rush hour time. 
 
 
 ### Trips by Gender by Weekday
 
-![Trip_by_Gender_by_Weekday.PNG](Trip_by_Gender_by_Weekday.PNG)
+![Trips_by_Gender_by_Weekday.PNG](Trips_by_Gender_by_Weekday.PNG)
 
 One thing that stands out in this chart is that most males are subscribers and they use the bikes throughout the week, more heavily on Monday, Tuesday, Thursday and Friday but all days there are many males subscribers using bikes. Females, there are more subscribers than customers but the difference is not as big as it is for males between number of customers and number of subscribers. And for unknown gender, the number of subscribers is the lowest and there are more customers than subscribers of unknown gender. The differences in bike use for days of the week is not very significant even though there are some variations. 
 
